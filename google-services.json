@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "213779578976",
+    "firebase_url": "https://demologin-7543d.firebaseio.com",
+    "project_id": "demologin-7543d",
+    "storage_bucket": "demologin-7543d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213779578976:android:fc363364e9ea646cca8305",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Rhu3DZ_gVOgPM0Nh8oxuwZKjgFimqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213779578976:android:9567eb45775d8e01ca8305",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213779578976-4fagdlotcpnjmok32ptl52gq4lteh0f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatting",
+            "certificate_hash": "570fdf4acf3a868258bac30ebb85b26a61ea355e"
+          }
+        },
+        {
+          "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Rhu3DZ_gVOgPM0Nh8oxuwZKjgFimqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213779578976:android:8645ca474d1d95f4ca8305",
+        "android_client_info": {
+          "package_name": "com.example.fitofast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Rhu3DZ_gVOgPM0Nh8oxuwZKjgFimqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213779578976:android:ca9b4ae91522b21dca8305",
+        "android_client_info": {
+          "package_name": "com.example.fitofastadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Rhu3DZ_gVOgPM0Nh8oxuwZKjgFimqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213779578976-ipfn19dagcctm7pdm7vuhttch7r24amv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
